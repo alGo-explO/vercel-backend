@@ -83,4 +83,4 @@ Deliverables:
 
 ## Hosted frontend url
 
-link : 
+link : https://vercel-frontend-eta-topaz.vercel.app/
